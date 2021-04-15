@@ -39,25 +39,12 @@ def menu():
     banner = Figlet(font='graffiti',justify='right')
 
     pc.print(banner.renderText("                           8-IP !!                    "), style="green")
-    print('                                                                                 IP recon tool :) Adhrit ')
     pc.print('                                                                github: https://github.com/xadhrit    ', style="bright_black")
     pc.print( "                                              GIVE ME FUCKING STAR ! BECAUSE WE ARE STARS BROS!  ", style="green")
     print ("   ")
-    print("    ")
-    print ("   ")
-    
-    pc.print("""                                   
-    
-     
-                                            _____________________________________________________________________________                  
-                                            +                                                                            +
-                                            +                     WELCOME TO 8-IP's MAIN MENU :                          +                                    
-                                            +____________________________________________________________________________+
-    
-    
-    
-    
-     """, style="yellow")
+                         
+    pc.print("""                                      +         WELCOME TO 8-IP's MAIN MENU    +                                                                                                                                               
+      """, style="yellow")
     pc.print(" > "," Choose you desired operation : \n", style="blue")
    
 
