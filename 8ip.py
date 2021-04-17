@@ -271,7 +271,7 @@ def menu():
            ______________________________________________________________          
                      
         """, style="yellow")
-        pc.print(" Adhrit is a noob but he don't want to kill himself with noob thinking. He write this program today because he is sad from 2 day . \n", style="yellow")
+        pc.print(" Adhrit is a noob but he don't want to kill himself with noob thinking. He write this program today because he is sad from 2 days . \n", style="yellow")
         pc.print(" github : https://github.com/xadhrit  ", style="bright_cyan")
         pc.print(" twitter: https://twitter.com/xadhrit  ", style="bright_cyan")
         pc.print( " GIVE ME FUCKING STAR ! BECAUSE WE ARE STARS BROS!  ", style="green")
